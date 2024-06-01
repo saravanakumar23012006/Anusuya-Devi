@@ -1,0 +1,23 @@
+.resume{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: whitesmoke;
+}
+.details{
+    color: black;
+}
+.about{
+    font-size: 20px;
+    font-style: sans-serif;
+    width: 300%;
+    box-shadow: inset 0 0 20px;
+    
+}
+.contact{
+    color: blue;
+    font-size: 20px;
+    font-style: sans-serif;
+}
